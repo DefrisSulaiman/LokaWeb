@@ -33,7 +33,7 @@
 
 @font-face {
     font-family: 'mont';
-    src: url('fonts/Montserrat-VariableFont_wght.ttf');
+    src: url('fonts/Montserrat-VariableFont_wght.ttf') format('opentype');
 }
 
 /* Template */
@@ -859,6 +859,7 @@ footer .logo i {
     }
     .btn {
         font-size: 10px;
+        padding: 10px 20px;
     }
     header nav .bar {
         margin-right: 20px;
@@ -943,6 +944,7 @@ footer .logo i {
     }
     .screen-five .price .pcard .desc a {
         font-size: 9px;
+        padding: 8px 15px;
     }
     .screen-seven .down {
         text-align: left;
