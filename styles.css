@@ -23,7 +23,7 @@
 
 @font-face {
     font-family: 'lovelo';
-    src: url('/fonts/Lovelo Black.otf');
+    src: url('/fonts/Lovelo-Black.otf');
 }
 
 @font-face {
@@ -387,9 +387,8 @@ header .nav ul li {
     background-color: #D2453A;
 }
 
-.screen-three .down .card p {
+.screen-three .down .card .card-title p {
     font-size: 22px;
-    font-family: 'lovelo';
     padding: 10px;
     color: white;
 }
