@@ -18,17 +18,17 @@
 }
 @font-face {
     font-family: 'angel';
-    src: url('/fonts/Angel-Lemona_Demo.ttf');
+    src: url('fonts/Angel-Lemona_Demo.ttf');
 }
 
 @font-face {
     font-family: 'lovelo';
-    src: url('/fonts/Lovelo-Black.otf');
+    src: url('fonts/Lovelo-Black.otf');
 }
 
 @font-face {
     font-family: 'gliker';
-    src: url('/fonts/Gliker-Regular.ttf');
+    src: url('fonts/Gliker-Regular.ttf');
 }
 
 @font-face {
