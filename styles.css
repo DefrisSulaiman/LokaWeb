@@ -23,17 +23,17 @@
 
 @font-face {
     font-family: 'lovelo';
-    src: url('fonts/Lovelo-Black.otf');
+    src: url('fonts/Lovelo-Black.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'gliker';
-    src: url('fonts/Gliker-Regular.ttf');
+    src: url('fonts/Gliker-Regular.ttf') format('opentype');
 }
 
 @font-face {
     font-family: 'mont';
-    src: url('/fonts/Montserrat-VariableFont_wght.ttf');
+    src: url('fonts/Montserrat-VariableFont_wght.ttf');
 }
 
 /* Template */
